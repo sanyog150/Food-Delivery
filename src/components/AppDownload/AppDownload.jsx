@@ -12,7 +12,7 @@ const AppDownload = () => {
             <img src={assets.app_store} alt="" />
         </div>
       </div>
-    </>
+    </> 
   );
 }
 
